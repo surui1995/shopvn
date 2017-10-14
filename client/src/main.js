@@ -13,6 +13,7 @@ import VueAxios from 'vue-axios'
 import infiniteScroll from 'vue-infinite-scroll'
 Vue.use(infiniteScroll)
 
+
 Vue.use(VueAxios,Axios);
 Axios.defaults.baseURL = apiConfig.baseUrl;
 

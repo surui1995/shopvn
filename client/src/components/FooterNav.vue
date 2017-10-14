@@ -65,42 +65,41 @@
 
 
                 <dl class="col-links">
-                    <dt>vnshop</dt>
+                    <dt>帮助中心</dt>
                     <dd>
-                        <a href="article.php?id=12" target="_blank" title="预约亲临到店服务" rel="nofollow">预约亲临到店服务</a>
+                        <a href="article.php?id=9" target="_blank" title="配送方式" rel="nofollow">配送方式</a>
                     </dd>
                     <dd>
-                        <a href="article.php?id=13" target="_blank" title="服务网点" rel="nofollow">服务网点</a>
+                        <a href="article.php?id=10" target="_blank" title="支付方式" rel="nofollow">支付方式</a>
                     </dd>
                     <dd>
-                        <a href="article.php?id=14" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
-                    </dd>
-
-                </dl>
-
-
-                <dl class="col-links">
-                    <dt>vnshop</dt>
-                    <dd>
-                        <a href="article.php?id=24" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
-                    </dd>
-                    <dd>
-                        <a href="article.php?id=25" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
-                    </dd>
-                    <dd>
-                        <a href="article.php?id=26" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+                        <a href="article.php?id=11" target="_blank" title="购物指南" rel="nofollow">购物指南</a>
                     </dd>
 
                 </dl>
 
 
                 <dl class="col-links">
-                    <dt>vnshop</dt>
+                    <dt>帮助中心</dt>
+                    <dd>
+                        <a href="article.php?id=9" target="_blank" title="配送方式" rel="nofollow">配送方式</a>
+                    </dd>
+                    <dd>
+                        <a href="article.php?id=10" target="_blank" title="支付方式" rel="nofollow">支付方式</a>
+                    </dd>
+                    <dd>
+                        <a href="article.php?id=11" target="_blank" title="购物指南" rel="nofollow">购物指南</a>
+                    </dd>
+
+                </dl>
+
+                <dl class="col-links">
+                    <dt>帮助中心</dt>
                     <dd>
                         <a href="article.php?id=15" target="_blank" title="官方微信" rel="nofollow">官方微信</a>
                     </dd>
                     <dd>
-                        <a href="article.php?id=16" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+                        <a href="article.php?id=16" target="_blank" title="购物指南" rel="nofollow">购物指南</a>
                     </dd>
                     <dd>
                         <a href="article.php?id=17" target="_blank" title="新浪微博" rel="nofollow">新浪微博</a>
